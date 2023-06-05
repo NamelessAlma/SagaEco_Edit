@@ -1,0 +1,611 @@
+2023/05/20 22:37:25|[Error]Error on parsing Item db!
+       File:./DB/item9.csv:268
+       Content:81800500,81800500,81800500,セット?ハルシオンフォーム,SETPARTS_LONGRANGE,50000,150,125,1,0,10047860,-1,0,0,0,0,0,1,0,0,30,0,0,0,0,0,0,0,0,0,0,NONE,NONE,5,0,0,0,0,0,700,300,300,1100,1100,90,12,12,8,12,12,24,0,0,32,40,50,70,32,38,12,20,13,25,15,10,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,211,0,0,0,ＤＥＭ用セットパーツ$R伝説の鳥を$R模して作られたセットパーツ$R?魂の器?と呼ばれる機関に他者を$R憑依させることができる。また$R同族のＤＥＭをも?魂の器?を$R通して憑依させることができる$Rただし、フォームチェンジ中の$RＤＥＭを憑依させることはできない$Rカスタマイズ部屋で装着が可能,0,0,1,0
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_01 for Monster: 10140300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_01 for Monster: 10140300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_07 for Monster: 10360004
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_07 for Monster: 10370004
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture4_normal for Monster: 10370052
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture4_normal2 for Monster: 10370052
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture4_normal3 for Monster: 10370052
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture4_special for Monster: 10370052
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture4_SemiRare for Monster: 10370052
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture4_special for Monster: 10370052
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture4_SemiRare2 for Monster: 10370052
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_06 for Monster: 10370053
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_06 for Monster: 10370053
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_06 for Monster: 10370053
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_06 for Monster: 10370053
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_06 for Monster: 10370053
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_06 for Monster: 10370053
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_06 for Monster: 10370053
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_07 for Monster: 10370054
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_07 for Monster: 10370054
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_07 for Monster: 10370054
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_07 for Monster: 10370054
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_07 for Monster: 10370054
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_07 for Monster: 10370054
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_07 for Monster: 10370054
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_08 for Monster: 10370055
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_08 for Monster: 10370055
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_08 for Monster: 10370055
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_08 for Monster: 10370055
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_08 for Monster: 10370055
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_08 for Monster: 10370055
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_ITAN_08 for Monster: 10370055
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 14170100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 14170100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_13 for Monster: 14170100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_13 for Monster: 14170100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_13 for Monster: 14170100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_13 for Monster: 14170100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_13 for Monster: 14170100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture1_normal for Monster: 14170101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 14170101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_12 for Monster: 14170101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_12 for Monster: 14170101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_12 for Monster: 14170101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_12 for Monster: 14170101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_12 for Monster: 14170101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture8_normal for Monster: 14311603
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture8_normal for Monster: 14311603
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture8_normal for Monster: 14311603
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture8_normal for Monster: 14311603
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_27 for Monster: 14551400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_27 for Monster: 14551400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_27 for Monster: 14551400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_27 for Monster: 14551400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_27 for Monster: 14551400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_27 for Monster: 14551400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_27 for Monster: 14551400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_26 for Monster: 14551401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_26 for Monster: 14551401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_26 for Monster: 14551401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_26 for Monster: 14551401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_26 for Monster: 14551401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_26 for Monster: 14551401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_26 for Monster: 14551401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 14551402
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 14551402
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_16 for Monster: 14551402
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_16 for Monster: 14551402
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_16 for Monster: 14551402
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_16 for Monster: 14551402
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_16 for Monster: 14551402
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 14551403
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 14551403
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_17 for Monster: 14551403
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_17 for Monster: 14551403
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_17 for Monster: 14551403
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_17 for Monster: 14551403
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_17 for Monster: 14551403
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 14551404
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 14551404
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_18 for Monster: 14551404
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_18 for Monster: 14551404
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_18 for Monster: 14551404
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_18 for Monster: 14551404
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_18 for Monster: 14551404
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 14560901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 14560901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_21 for Monster: 14560901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_21 for Monster: 14560901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_21 for Monster: 14560901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_21 for Monster: 14560901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_21 for Monster: 14560901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture1_normal for Monster: 14560902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 14560902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_20 for Monster: 14560902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_20 for Monster: 14560902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_20 for Monster: 14560902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_20 for Monster: 14560902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_20 for Monster: 14560902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 14560903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 14560903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_1 for Monster: 14560903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_1 for Monster: 14560903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_1 for Monster: 14560903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_1 for Monster: 14560903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_1 for Monster: 14560903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 14560904
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 14560904
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_2 for Monster: 14560904
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_2 for Monster: 14560904
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_2 for Monster: 14560904
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_2 for Monster: 14560904
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_2 for Monster: 14560904
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 14560905
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 14560905
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_3 for Monster: 14560905
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_3 for Monster: 14560905
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_3 for Monster: 14560905
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_3 for Monster: 14560905
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_3 for Monster: 14560905
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 14630100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 14630100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_17 for Monster: 14630100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_17 for Monster: 14630100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_17 for Monster: 14630100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_17 for Monster: 14630100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_17 for Monster: 14630100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture1_normal for Monster: 14630101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 14630101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_16 for Monster: 14630101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_16 for Monster: 14630101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_16 for Monster: 14630101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_16 for Monster: 14630101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_16 for Monster: 14630101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 14630300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 14630300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_7 for Monster: 14630300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_7 for Monster: 14630300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_7 for Monster: 14630300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_7 for Monster: 14630300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_7 for Monster: 14630300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 14630301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 14630301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_8 for Monster: 14630301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_8 for Monster: 14630301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_8 for Monster: 14630301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_8 for Monster: 14630301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_8 for Monster: 14630301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 14630302
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 14630302
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_9 for Monster: 14630302
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_9 for Monster: 14630302
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_9 for Monster: 14630302
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_9 for Monster: 14630302
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_9 for Monster: 14630302
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_03 for Monster: 15130000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_03 for Monster: 15130000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_00 for Monster: 15140002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_00 for Monster: 15140002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_02 for Monster: 15160002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_02 for Monster: 15160002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_10000603 for Monster: 15181301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_10000603 for Monster: 15181302
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_10000603 for Monster: 15181303
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_10000603 for Monster: 15181304
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_10000603 for Monster: 15181305
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ITAN_04 for Monster: 15186200
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ITAN_04 for Monster: 15186200
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ITAN_04 for Monster: 15186200
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ITAN_04 for Monster: 15186200
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ITAN_04 for Monster: 15186200
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ITAN_04 for Monster: 15186200
+2023/05/20 22:37:25|Warning:Can't find Drop Group: CaptureSixKing_normal for Monster: 15230000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture8_special for Monster: 15230000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: CaptureSixKing_shihen for Monster: 15230000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: CaptureSixKing_special for Monster: 15230000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: body_fragment for Monster: 15370000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: lower_body_fragment for Monster: 15370000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: body_fragment for Monster: 15370000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ALLlower_body_fragment for Monster: 15370000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: hat_fragment for Monster: 15370000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ALLbody_fragment for Monster: 15370000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: body_fragment for Monster: 15370001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: lower_body_fragment for Monster: 15370001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ALL_headchest_fragment for Monster: 15370001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: lower_body_fragment for Monster: 15370001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ALLlower_body_fragment for Monster: 15370001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: ALLbody_fragment for Monster: 15370001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_11 for Monster: 15480200
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_11 for Monster: 15480200
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 15520000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 15520000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_15 for Monster: 15520000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_15 for Monster: 15520000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_15 for Monster: 15520000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_15 for Monster: 15520000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_15 for Monster: 15520000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture1_normal for Monster: 15520001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 15520001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_14 for Monster: 15520001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_14 for Monster: 15520001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_14 for Monster: 15520001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_14 for Monster: 15520001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_14 for Monster: 15520001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15520100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15520100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_4 for Monster: 15520100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_4 for Monster: 15520100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_4 for Monster: 15520100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_4 for Monster: 15520100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_4 for Monster: 15520100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15520101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15520101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_5 for Monster: 15520101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_5 for Monster: 15520101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_5 for Monster: 15520101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_5 for Monster: 15520101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_5 for Monster: 15520101
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15520102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15520102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_6 for Monster: 15520102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_6 for Monster: 15520102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_6 for Monster: 15520102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_6 for Monster: 15520102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_6 for Monster: 15520102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_29 for Monster: 15530300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_29 for Monster: 15530300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_29 for Monster: 15530300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_29 for Monster: 15530300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_29 for Monster: 15530300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_29 for Monster: 15530300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_29 for Monster: 15530300
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_28 for Monster: 15530301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_28 for Monster: 15530301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_28 for Monster: 15530301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_28 for Monster: 15530301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_28 for Monster: 15530301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_28 for Monster: 15530301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_28 for Monster: 15530301
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_25 for Monster: 15540001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_25 for Monster: 15540001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_25 for Monster: 15540001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_25 for Monster: 15540001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_25 for Monster: 15540001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_25 for Monster: 15540001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_25 for Monster: 15540001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_24 for Monster: 15540002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_24 for Monster: 15540002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_24 for Monster: 15540002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_24 for Monster: 15540002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_24 for Monster: 15540002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_24 for Monster: 15540002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_24 for Monster: 15540002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15540102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15540102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_10 for Monster: 15540102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_10 for Monster: 15540102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_10 for Monster: 15540102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_10 for Monster: 15540102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_10 for Monster: 15540102
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15540103
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15540103
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_11 for Monster: 15540103
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_11 for Monster: 15540103
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_11 for Monster: 15540103
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_11 for Monster: 15540103
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_11 for Monster: 15540103
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15540104
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15540104
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_12 for Monster: 15540104
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_12 for Monster: 15540104
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_12 for Monster: 15540104
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_12 for Monster: 15540104
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_12 for Monster: 15540104
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_31 for Monster: 15630400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_31 for Monster: 15630400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_31 for Monster: 15630400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_31 for Monster: 15630400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_31 for Monster: 15630400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_31 for Monster: 15630400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_31 for Monster: 15630400
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_30 for Monster: 15630401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_30 for Monster: 15630401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_30 for Monster: 15630401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_30 for Monster: 15630401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_30 for Monster: 15630401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_30 for Monster: 15630401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_30 for Monster: 15630401
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15630500
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15630500
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_13 for Monster: 15630500
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_13 for Monster: 15630500
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_13 for Monster: 15630500
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_13 for Monster: 15630500
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_13 for Monster: 15630500
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15630501
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15630501
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_14 for Monster: 15630501
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_14 for Monster: 15630501
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_14 for Monster: 15630501
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_14 for Monster: 15630501
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_14 for Monster: 15630501
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15630502
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15630502
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_15 for Monster: 15630502
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_15 for Monster: 15630502
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_15 for Monster: 15630502
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_15 for Monster: 15630502
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_15 for Monster: 15630502
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture1_normal for Monster: 15830000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 15830000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_06 for Monster: 15830000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_06 for Monster: 15830000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_06 for Monster: 15830000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_06 for Monster: 15830000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_06 for Monster: 15830000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture1_normal for Monster: 15840000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 15840000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_09 for Monster: 15840000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_09 for Monster: 15840000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_09 for Monster: 15840000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_09 for Monster: 15840000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_09 for Monster: 15840000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture1_normal for Monster: 15980000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 15980000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_08 for Monster: 15980000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_08 for Monster: 15980000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_08 for Monster: 15980000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_08 for Monster: 15980000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_08 for Monster: 15980000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15985000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15985000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_19 for Monster: 15985000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_19 for Monster: 15985000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_19 for Monster: 15985000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_19 for Monster: 15985000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_19 for Monster: 15985000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15985001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15985001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_20 for Monster: 15985001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_20 for Monster: 15985001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_20 for Monster: 15985001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_20 for Monster: 15985001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_20 for Monster: 15985001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 15985002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 15985002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_21 for Monster: 15985002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_21 for Monster: 15985002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_21 for Monster: 15985002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_21 for Monster: 15985002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_21 for Monster: 15985002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_35 for Monster: 16000902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_35 for Monster: 16000902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_35 for Monster: 16000902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_35 for Monster: 16000902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_35 for Monster: 16000902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_35 for Monster: 16000902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_35 for Monster: 16000902
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_34 for Monster: 16000903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_34 for Monster: 16000903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_34 for Monster: 16000903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_34 for Monster: 16000903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_34 for Monster: 16000903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_34 for Monster: 16000903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_34 for Monster: 16000903
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_10 for Monster: 16010000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_10 for Monster: 16010000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 16250000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 16250000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_23 for Monster: 16250000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_23 for Monster: 16250000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_23 for Monster: 16250000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_23 for Monster: 16250000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_23 for Monster: 16250000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture1_normal for Monster: 16250001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 16250001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_22 for Monster: 16250001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_22 for Monster: 16250001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_22 for Monster: 16250001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_22 for Monster: 16250001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_22 for Monster: 16250001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 16260000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 16260000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_19 for Monster: 16260000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_19 for Monster: 16260000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_19 for Monster: 16260000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_19 for Monster: 16260000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_19 for Monster: 16260000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: Capture1_normal for Monster: 16260001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 16260001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_18 for Monster: 16260001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_18 for Monster: 16260001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_18 for Monster: 16260001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_18 for Monster: 16260001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_18 for Monster: 16260001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_33 for Monster: 16280900
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_33 for Monster: 16280900
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_33 for Monster: 16280900
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_33 for Monster: 16280900
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_33 for Monster: 16280900
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_33 for Monster: 16280900
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_33 for Monster: 16280900
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_32 for Monster: 16280901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_32 for Monster: 16280901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_32 for Monster: 16280901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_32 for Monster: 16280901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_32 for Monster: 16280901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_32 for Monster: 16280901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_32 for Monster: 16280901
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_39 for Monster: 16760000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 16760000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_38 for Monster: 16760000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_38 for Monster: 16760000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_38 for Monster: 16760000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_38 for Monster: 16760000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_38 for Monster: 16760000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 16770000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_36 for Monster: 16770000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_36 for Monster: 16770000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_36 for Monster: 16770000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_36 for Monster: 16770000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_36 for Monster: 16770000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_05 for Monster: 16770100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_37 for Monster: 16770100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_37 for Monster: 16770100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_37 for Monster: 16770100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_37 for Monster: 16770100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: BOSS_37 for Monster: 16770100
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 17140000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 17140000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_25 for Monster: 17140000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_25 for Monster: 17140000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_25 for Monster: 17140000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_25 for Monster: 17140000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_25 for Monster: 17140000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 17140001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 17140001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_26 for Monster: 17140001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_26 for Monster: 17140001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_26 for Monster: 17140001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_26 for Monster: 17140001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_26 for Monster: 17140001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 17140002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 17140002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_27 for Monster: 17140002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_27 for Monster: 17140002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_27 for Monster: 17140002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_27 for Monster: 17140002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_27 for Monster: 17140002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 17150000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 17150000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_22 for Monster: 17150000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_22 for Monster: 17150000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_22 for Monster: 17150000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_22 for Monster: 17150000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_22 for Monster: 17150000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 17150001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 17150001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_23 for Monster: 17150001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_23 for Monster: 17150001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_23 for Monster: 17150001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_23 for Monster: 17150001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_23 for Monster: 17150001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 17150002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 17150002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_24 for Monster: 17150002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_24 for Monster: 17150002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_24 for Monster: 17150002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_24 for Monster: 17150002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_24 for Monster: 17150002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 17160000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 17160000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_28 for Monster: 17160000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_28 for Monster: 17160000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_28 for Monster: 17160000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_28 for Monster: 17160000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_28 for Monster: 17160000
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 17160001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 17160001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_29 for Monster: 17160001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_29 for Monster: 17160001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_29 for Monster: 17160001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_29 for Monster: 17160001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_29 for Monster: 17160001
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_39 for Monster: 17160002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_BOSS_05 for Monster: 17160002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_30 for Monster: 17160002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_30 for Monster: 17160002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_30 for Monster: 17160002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_30 for Monster: 17160002
+2023/05/20 22:37:25|Warning:Can't find Drop Group: T_NBOSS_30 for Monster: 17160002
+2023/05/20 22:37:26|Warning:Can't find Drop Group: MAGOI for Monster: 26100014
+2023/05/20 22:37:26|Warning:Can't find Drop Group: MAGOI for Monster: 26100014
+2023/05/20 22:37:26|Warning:Can't find Drop Group: MAGOI for Monster: 26100014
+2023/05/20 22:37:26|Warning:Can't find Drop Group: MAGOI for Monster: 26100014
+2023/05/20 22:37:26|Warning:Can't find Drop Group: MAGOI for Monster: 26100014
+2023/05/20 22:37:26|Warning:Can't find Drop Group: MAGOI for Monster: 26100014
+2023/05/20 22:37:26|Warning:Can't find Drop Group: MAGOI for Monster: 26100014
+2023/05/20 22:37:26|Warning:Can't find Drop Group: BOSS_04 for Monster: 30030045
+2023/05/20 22:37:26|Warning:Can't find Drop Group: BOSS_04 for Monster: 30030045
+2023/05/20 22:37:26|Warning:Can't find Drop Group: BOSS_04 for Monster: 30030045
+2023/05/20 22:37:26|Warning:Can't find Drop Group: BOSS_04 for Monster: 30030045
+2023/05/20 22:37:26|Warning:Can't find Drop Group: BOSS_04 for Monster: 30030045
+2023/05/20 22:37:26|Warning:Can't find Drop Group: BOSS_04 for Monster: 30030045
+2023/05/20 22:37:26|Warning:Can't find Drop Group: BOSS_04 for Monster: 30030045
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX19 for Monster: 30270022
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX19 for Monster: 30270022
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX20 for Monster: 30270023
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX20 for Monster: 30270023
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX20 for Monster: 30270023
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX20 for Monster: 30270023
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX20 for Monster: 30270023
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX20 for Monster: 30270023
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX20 for Monster: 30270023
+2023/05/20 22:37:26|Warning:Can't find Drop Group: ITAN_02 for Monster: 30270024
+2023/05/20 22:37:26|Warning:Can't find Drop Group: ITAN_05 for Monster: 30270024
+2023/05/20 22:37:26|Warning:Can't find Drop Group: ITAN_02 for Monster: 30270025
+2023/05/20 22:37:26|Warning:Can't find Drop Group: ITAN_05 for Monster: 30270025
+2023/05/20 22:37:26|Warning:Can't find Drop Group: ITAN_02 for Monster: 30270026
+2023/05/20 22:37:26|Warning:Can't find Drop Group: ITAN_05 for Monster: 30270026
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX21 for Monster: 30270027
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TREASURE_BOX21 for Monster: 30270027
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TIMBER_BOX13 for Monster: 30290017
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TIMBER_BOX13 for Monster: 30290017
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TIMBER_BOX14 for Monster: 30290018
+2023/05/20 22:37:26|Warning:Can't find Drop Group: TIMBER_BOX14 for Monster: 30290018
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_1 for Monster: 40050101
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_1 for Monster: 40050101
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_1 for Monster: 40050103
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_1 for Monster: 40050103
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_1 for Monster: 40050105
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_1 for Monster: 40050105
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_8 for Monster: 40050111
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_8 for Monster: 40050111
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_8 for Monster: 40050111
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_8 for Monster: 40050113
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_8 for Monster: 40050113
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_8 for Monster: 40050113
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_8 for Monster: 40050115
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_8 for Monster: 40050115
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_8 for Monster: 40050115
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_2 for Monster: 40050151
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_2 for Monster: 40050151
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_9 for Monster: 40050152
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_9 for Monster: 40050152
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_3 for Monster: 40060011
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_4 for Monster: 40060011
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_5 for Monster: 40060011
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_6 for Monster: 40060011
+2023/05/20 22:37:26|Warning:Can't find Drop Group: KWAR_7 for Monster: 40060011
+2023/05/20 22:37:26|Warning:Item:10000301 not found! Creating dummy Item.
+2023/05/20 22:37:26|Warning:Item:10000301 not found! Creating dummy Item.
+2023/05/20 22:37:26|Warning:Item:10000301 not found! Creating dummy Item.
+2023/05/20 22:37:26|Warning:Item:10000301 not found! Creating dummy Item.
+2023/05/20 22:37:26|Warning:Item:10000301 not found! Creating dummy Item.
+2023/05/20 22:37:26|Warning:Item:10000301 not found! Creating dummy Item.
+2023/05/20 22:37:34|[Error]Compile Error:無効なトークン ')' が クラス、構造体またはインターフェイスのメンバー宣言で使用されています。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:208
+2023/05/20 22:37:34|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:211
+2023/05/20 22:37:34|[Error]Compile Error:型が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:211
+2023/05/20 22:37:34|[Error]Compile Error:; が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:211
+2023/05/20 22:37:34|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:212
+2023/05/20 22:37:34|[Error]Compile Error:ID がありません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:212
+2023/05/20 22:37:34|[Error]Compile Error:型が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:212
+2023/05/20 22:37:34|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:213
+2023/05/20 22:37:34|[Error]Compile Error:ID がありません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:213
+2023/05/20 22:37:34|[Error]Compile Error:型が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:213
+2023/05/20 22:37:34|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:214
+2023/05/20 22:37:34|[Error]Compile Error:ID がありません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:214
+2023/05/20 22:37:34|[Error]Compile Error:型が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:214
+2023/05/20 22:37:34|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:215
+2023/05/20 22:37:34|[Error]Compile Error:ID がありません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:215
+2023/05/20 22:37:34|[Error]Compile Error:型が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:215
+2023/05/20 22:37:34|[Error]Compile Error:名前空間にフィールドやメソッドのようなメンバーを直接含めることはできません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:216
+2023/05/20 22:37:34|[Error]Compile Error:型が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:219
+2023/05/20 22:37:34|[Error]Compile Error:; が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:219
+2023/05/20 22:37:34|[Error]Compile Error:名前空間にフィールドやメソッドのようなメンバーを直接含めることはできません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:220
+2023/05/20 22:37:34|[Error]Compile Error:名前空間にフィールドやメソッドのようなメンバーを直接含めることはできません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:226
+2023/05/20 22:37:34|[Error]Compile Error:型が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:227
+2023/05/20 22:37:34|[Error]Compile Error:; が必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:227
+2023/05/20 22:37:34|[Error]Compile Error:名前空間にフィールドやメソッドのようなメンバーを直接含めることはできません。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:228
+2023/05/20 22:37:34|[Error]Compile Error:型、名前空間の定義、またはファイルの終わりが必要です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:234
+2023/05/20 22:37:34|[Error]Compile Error:定数の 新しい行です。
+2023/05/20 22:37:34|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (1)\SagaECO-master\sagaeco_ace\Trunk\Bin\Scripts\Scripts\阿克罗波利斯\東方海角\東方海角\東方海角(10018100)\巴乌·阿鲁玛(20010011).cs:21

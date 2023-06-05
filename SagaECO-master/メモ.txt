@@ -1,0 +1,11 @@
+2023.06/03
+ShayleneKimi‚³‚ñ‚Ì•ÏX‚ğ”½‰f‚³‚¹‚Ä’¸‚«‚Ü‚µ‚½
+
+ShayleneKimi‚³‚ñ‚ÌƒRƒƒ“ƒg
+My environment
+- Visual Studio 2022
+- .NET Framework 4.8
+- Latest JP Client
+
+I've already built PlutoProject, so you can try it.
+DL: https://drive.google.com/file/d/1Qs1grCyp6agaljxIyWx42kXpoDR2-oM4/view?usp=sharing

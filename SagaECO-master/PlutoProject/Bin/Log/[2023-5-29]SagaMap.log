@@ -1,0 +1,59 @@
+2023/05/29 0:45:41|Warning:ClientGameVersion is undefined, accepting all version.
+2023/05/29 0:46:01|[Error]パス 'D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Skills' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaMap.Skill.SkillHandler.LoadSkill(String path) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\Skill\SkillHandler.SkillManager.cs:行 34
+2023/05/29 0:46:03|[Error]Compile Error:無効なトークン ')' が クラス、構造体またはインターフェイスのメンバー宣言で使用されています。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:208
+2023/05/29 0:46:03|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:211
+2023/05/29 0:46:03|[Error]Compile Error:型が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:211
+2023/05/29 0:46:03|[Error]Compile Error:; が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:211
+2023/05/29 0:46:03|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:212
+2023/05/29 0:46:03|[Error]Compile Error:ID がありません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:212
+2023/05/29 0:46:03|[Error]Compile Error:型が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:212
+2023/05/29 0:46:03|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:213
+2023/05/29 0:46:03|[Error]Compile Error:ID がありません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:213
+2023/05/29 0:46:03|[Error]Compile Error:型が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:213
+2023/05/29 0:46:03|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:214
+2023/05/29 0:46:03|[Error]Compile Error:ID がありません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:214
+2023/05/29 0:46:03|[Error]Compile Error:型が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:214
+2023/05/29 0:46:03|[Error]Compile Error:メソッドは戻り値の型を持たなければなりません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:215
+2023/05/29 0:46:03|[Error]Compile Error:ID がありません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:215
+2023/05/29 0:46:03|[Error]Compile Error:型が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:215
+2023/05/29 0:46:03|[Error]Compile Error:名前空間にフィールドやメソッドのようなメンバーを直接含めることはできません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:216
+2023/05/29 0:46:03|[Error]Compile Error:型が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:219
+2023/05/29 0:46:03|[Error]Compile Error:; が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:219
+2023/05/29 0:46:03|[Error]Compile Error:名前空間にフィールドやメソッドのようなメンバーを直接含めることはできません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:220
+2023/05/29 0:46:03|[Error]Compile Error:名前空間にフィールドやメソッドのようなメンバーを直接含めることはできません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:226
+2023/05/29 0:46:03|[Error]Compile Error:型が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:227
+2023/05/29 0:46:03|[Error]Compile Error:; が必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:227
+2023/05/29 0:46:03|[Error]Compile Error:名前空間にフィールドやメソッドのようなメンバーを直接含めることはできません。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:228
+2023/05/29 0:46:03|[Error]Compile Error:型、名前空間の定義、またはファイルの終わりが必要です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\ecoace_custom\ECOR_KUJI.cs:234
+2023/05/29 0:46:03|[Error]Compile Error:定数の 新しい行です。
+2023/05/29 0:46:03|[Error]File:d:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\Scripts\Scripts\阿克罗波利斯\東方海角\東方海角\東方海角(10018100)\巴乌·阿鲁玛(20010011).cs:21

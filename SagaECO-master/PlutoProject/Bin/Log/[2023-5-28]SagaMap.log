@@ -1,0 +1,16 @@
+2023/05/28 1:05:57|Warning:ClientGameVersion is undefined, accepting all version.
+2023/05/28 1:06:15|[Error]Fatal: An unhandled exception is thrown, terminating...
+2023/05/28 1:06:15|[Error]Error Message:System.IO.DirectoryNotFoundException: パス 'D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\DB\PartnerAI' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/28 1:06:15|[Error]Call Stack:   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/28 1:06:15|[Error]Trying to save all player's data

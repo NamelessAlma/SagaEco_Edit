@@ -1,0 +1,104 @@
+2023/05/27 10:56:38|Warning:ClientGameVersion is undefined, accepting all version.
+2023/05/27 10:56:43|[Error]入力文字列の形式が正しくありません。
+   場所 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   場所 System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   場所 System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   場所 System.UInt16.Parse(String s)
+   場所 SagaDB.Furniture.FurnitureFactory.ParseCSV(Furniture item, String[] paras) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaDB\Item\FurnitureFactory.cs:行 60
+   場所 SagaLib.Factory`2.InitCSV(String path, Encoding encoding) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\Factory.cs:行 246
+2023/05/27 10:56:43|[Error]Error on parsing furniture db!
+       File:DB/furniture.csv:1592
+2023/05/27 10:56:49|[Error]Failed.. Trying again in 10sec
+2023/05/27 10:57:01|[Error]Failed.. Trying again in 10sec
+2023/05/27 10:57:13|[Error]Fatal: An unhandled exception is thrown, terminating...
+2023/05/27 10:57:13|[Error]Failed.. Trying again in 10sec
+2023/05/27 10:57:13|[Error]Error Message:System.IO.DirectoryNotFoundException: パス 'D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\DB\PartnerAI' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/27 10:57:13|[Error]Call Stack:   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/27 10:57:13|[Error]Trying to save all player's data
+2023/05/27 23:35:19|Warning:ClientGameVersion is undefined, accepting all version.
+2023/05/27 23:35:24|[Error]入力文字列の形式が正しくありません。
+   場所 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   場所 System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   場所 System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   場所 System.UInt16.Parse(String s)
+   場所 SagaDB.Furniture.FurnitureFactory.ParseCSV(Furniture item, String[] paras) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaDB\Item\FurnitureFactory.cs:行 60
+   場所 SagaLib.Factory`2.InitCSV(String path, Encoding encoding) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\Factory.cs:行 246
+2023/05/27 23:35:24|[Error]Error on parsing furniture db!
+       File:DB/furniture.csv:1592
+2023/05/27 23:35:40|[Error]Fatal: An unhandled exception is thrown, terminating...
+2023/05/27 23:35:40|[Error]Error Message:System.IO.DirectoryNotFoundException: パス 'D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\DB\PartnerAI' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/27 23:35:40|[Error]Call Stack:   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/27 23:35:40|[Error]Trying to save all player's data
+2023/05/27 23:44:19|Warning:ClientGameVersion is undefined, accepting all version.
+2023/05/27 23:44:24|[Error]入力文字列の形式が正しくありません。
+   場所 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   場所 System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   場所 System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   場所 System.UInt16.Parse(String s)
+   場所 SagaDB.Furniture.FurnitureFactory.ParseCSV(Furniture item, String[] paras) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaDB\Item\FurnitureFactory.cs:行 60
+   場所 SagaLib.Factory`2.InitCSV(String path, Encoding encoding) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\Factory.cs:行 246
+2023/05/27 23:44:24|[Error]Error on parsing furniture db!
+       File:DB/furniture.csv:1592
+2023/05/27 23:44:30|[Error]Failed.. Trying again in 10sec
+2023/05/27 23:44:40|[Error]Fatal: An unhandled exception is thrown, terminating...
+2023/05/27 23:44:40|[Error]Error Message:System.IO.DirectoryNotFoundException: パス 'D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\DB\PartnerAI' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/27 23:44:40|[Error]Call Stack:   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/27 23:44:40|[Error]Trying to save all player's data
+2023/05/27 23:46:19|Warning:ClientGameVersion is undefined, accepting all version.
+2023/05/27 23:46:24|[Error]入力文字列の形式が正しくありません。
+   場所 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   場所 System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   場所 System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   場所 System.UInt16.Parse(String s)
+   場所 SagaDB.Furniture.FurnitureFactory.ParseCSV(Furniture item, String[] paras) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaDB\Item\FurnitureFactory.cs:行 60
+   場所 SagaLib.Factory`2.InitCSV(String path, Encoding encoding) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\Factory.cs:行 246
+2023/05/27 23:46:24|[Error]Error on parsing furniture db!
+       File:DB/furniture.csv:1592
+2023/05/27 23:46:40|[Error]Fatal: An unhandled exception is thrown, terminating...
+2023/05/27 23:46:40|[Error]Error Message:System.IO.DirectoryNotFoundException: パス 'D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\Bin\DB\PartnerAI' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/27 23:46:40|[Error]Call Stack:   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   場所 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   場所 System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   場所 SagaLib.VirtualFileSystem.RealFileSystem.SearchFile(String path, String pattern, SearchOption option) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaLib\VirtualFileSytem\IFileSystemImp\RealFileSystem.cs:行 41
+   場所 SagaMap.MapServer.Main(String[] args) 場所 D:\エミルクロニクルオンラインをいろいろ見てみるEmilChronicleOnline\SagaECO-master (Edit)\SagaECO-master\PlutoProject\SagaMap\MapServer.cs:行 305
+2023/05/27 23:46:40|[Error]Trying to save all player's data
