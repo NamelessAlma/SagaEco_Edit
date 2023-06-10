@@ -1,0 +1,53 @@
+﻿<Window x:Class="AccountManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AccountManager"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="645" Width="800">
+    <Grid x:Name="AccountInfoGrid" Width="NaN" Height="NaN" Margin="0,-2,0,-2" >
+        <Grid>
+            <Border BorderBrush="Gray" BorderThickness="2" VerticalAlignment="Top" Height="231" Margin="10,7,467,0" Width="NaN"/>
+            <Label Content="アカウント情報" HorizontalAlignment="Left" Margin="127,7,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="81"/>
+
+            <!-- ログインID -->
+            <Label Content="ログインID" HorizontalAlignment="Left" Margin="30,34,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="81"/>
+            <TextBox x:Name="loginIdTextBox" HorizontalAlignment="Left" Margin="123,38,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170"/>
+            <!-- ログインパスワード -->
+            <Label Content="パスワード" HorizontalAlignment="Left" Margin="30,63,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="81"/>
+            <TextBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Margin="123,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170"/>
+            <!-- キャラ削除キー -->
+            <Label Content="キャラ削除キー" HorizontalAlignment="Left" Margin="30,94,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="81"/>
+            <TextBox x:Name="CharDeleteKeyTextBox" HorizontalAlignment="Left" Margin="123,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170"/>
+            <!-- GMレベル(0～200) -->
+            <Label Content="GM権限レベル" HorizontalAlignment="Left" Margin="30,124,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="81"/>
+            <TextBox x:Name="GMAdminLevelTextBox" HorizontalAlignment="Left" Margin="123,128,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170"/>
+
+            <!--  -->
+            <Button x:Name="AccountCreateButton" Content="アカウント登録" HorizontalAlignment="Left" Margin="31,195,0,0" VerticalAlignment="Top" Width="81" Click="AccountCreateButton_Click"/>
+            <!-- -->
+            <Button x:Name="AccountDeleteButton" Content="アカウント削除" HorizontalAlignment="Left" Margin="156,195,0,0" VerticalAlignment="Top" Width="82" Click="AccountDeleteButton_Click"/>
+
+        </Grid>
+        <Border BorderBrush="Gray" BorderThickness="2" VerticalAlignment="Top" Height="231" Margin="359,7,87,0" Width="NaN"/>
+        <Label Content="データベース名" HorizontalAlignment="Left" Margin="382,20,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="80"/>
+        <TextBox x:Name="DbNameTextBox" HorizontalAlignment="Left" Margin="493,25,0,0" TextWrapping="Wrap" Text="sagaeco" VerticalAlignment="Top" Width="170"/>
+
+        <Label Content="IPアドレス名" HorizontalAlignment="Left" Margin="382,50,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="80"/>
+        <TextBox x:Name="ServerIpAddressTextBox" HorizontalAlignment="Left" Margin="493,54,0,0" TextWrapping="Wrap" Text="127.0.0.1" VerticalAlignment="Top" Width="170"/>
+
+        <Label Content="ポート番号" HorizontalAlignment="Left" Margin="382,80,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="80"/>
+        <TextBox x:Name="ServerPortNumberTextBox" HorizontalAlignment="Left" Margin="493,84,0,0" TextWrapping="Wrap" Text="3306" VerticalAlignment="Top" Width="170"/>
+
+        <Label Content="DBユーザー名" HorizontalAlignment="Left" Margin="382,110,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="80"/>
+        <TextBox x:Name="DbUserIdTextBox" HorizontalAlignment="Left" Margin="493,114,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170"/>
+
+        <Label Content="DBユーザーパスワード" HorizontalAlignment="Left" Margin="382,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.04" Width="80"/>
+        <TextBox x:Name="DbUserPassTextBox" HorizontalAlignment="Left" Margin="493,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170"/>
+
+
+        <TextBox x:Name="LogTextBox" HorizontalAlignment="Center" Margin="0,294,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="680" Height="284" VerticalScrollBarVisibility="Auto"/>
+
+    </Grid>
+</Window>
