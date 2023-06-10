@@ -1,0 +1,57 @@
+データベースのインポートめも(Windows)
+
+★phpMyAdminのインストール
+　・XAMPPを利用する場合
+　1.XAMPPの公式サイトからXAMPPをインストール
+　https://www.apachefriends.org/jp/index.html
+　
+　2.XAMPP Control Panelを起動
+　ApacheのStartボタンを押下
+　MySqlのStartボタンを押下
+　
+2.phpMyAdminの起動
+　・XAMPPをインストールした場合
+　XAMPP Control Panelを起動し、MySqlのAdminボタンを押下
+　Webブラウザが立ち上がりphpMyAdminのページが立ち上がることを確認する
+　
+
+★データベースの作成
+memo 「ProjectPlutoSQL
+sagaecoという名前のデータベースを作って
+テーブルを作成してる」
+
+phpMyAdminのメインページから「インポート」タブを選択
+ファイルを選択ボタンを押下してSagaECO-master\PlutoProjectフォルダ直下の「ProjectPlutoSQL.sql」を選択し実行
+成功すると「sagaeco」という名前のDBが追加されている
+
+★テーブルの更新
+SagaECO-master\PlutoProject\SQLUpdateフォルダにアップデートしてほしそうな.sqlファイル達があったので
+インポート…
+
+phpMyAdminの左メニューバーから「sagaeco」を選択
+インポートタブを押して
+SagaECO-master\PlutoProject\SQLUpdateフォルダのsqlファイルを上から順にインポート(ファイルを選択、ページ一番下のインポートボタンを覆うかを繰り返す)
+
+update.sql
+ALTER TABLE `char` DROP COLUMN `dominionjlv`;で
+charテーブルにdominionjlvが無いというエラーが出るけれど、列削除なので気にしなくてよさそう
+他の消したい列は正常に消えているので
+
+問題はpartner.sql
+CREATE TABLE `partner`～で失敗する
+partnerテーブルが作成されない
+
+仕方ないので以下の方法で対応...
+1.partnerTable.sqlというファイルを作成
+2.partner.sqlを開いて1～25行目までをコピー
+3.1で作ったファイルを開いて貼り付けて3行目のAUTO_INCREMENTを削除して保存
+4.partnerTable.sqlをインポート
+5.phpMyAdminからsagaecoのpartnerテーブルを開く
+6.構造タブを押下して、1 apidの操作列にある変更を押下
+7.A_I列にチェックを入れる
+
+
+
+
+
+
